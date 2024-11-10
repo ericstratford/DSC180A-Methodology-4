@@ -392,8 +392,12 @@
    "metadata": {},
    "outputs": [],
    "source": [
+<<<<<<< HEAD
     "# Exponentiation first!\n",
+    "5 * 2 ** 3"
+=======
     "3 * 4 ** 2"
+>>>>>>> 161103b8ec789663f55eaef6159dbeabf172b985
    ]
   },
   {
@@ -402,8 +406,12 @@
    "metadata": {},
    "outputs": [],
    "source": [
+<<<<<<< HEAD
     "# Multiplication first!\n",
+    "(5 * 2) ** 3"
+=======
     "(3 * 4) ** 2"
+>>>>>>> 161103b8ec789663f55eaef6159dbeabf172b985
    ]
   },
   {
